@@ -1,0 +1,3 @@
+*.sql linguist-detectable=true
+# ignore the 'docs' folder for language stats
+docs/* linguist-documentation
